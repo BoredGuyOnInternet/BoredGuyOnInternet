@@ -1,1 +1,1 @@
-Im bored, its all you need to now
+<body background="THUMBSMACHINE.png">
